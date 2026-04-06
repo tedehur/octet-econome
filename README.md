@@ -14,7 +14,10 @@ Remplace espaces par 1 bit + Huffman sur le reste → gain 50-60 % sur pages web
 HTML 13 Ko → ~5 Ko après.  
 
   Buy Me A Coffee
- Si ça te plaît : un café ? ☕ (https://www.buymeacoffee.com/massfranck)
+ Si ça te plaît : un café ? ☕  
+<a href="https://www.buymeacoffee.com/massfranck" target="_blank">  
+  <img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174">  
+</a>   (https://www.buymeacoffee.com/massfranck)
 Licence : MIT – fais-en ce que tu veux.
 
 
